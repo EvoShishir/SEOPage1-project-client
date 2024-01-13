@@ -1,0 +1,23 @@
+.card {
+  width: 95%;
+  background-color: white;
+  padding: 0px 8px;
+  margin: 0px 0px 10px 0px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex .gap {
+  gap: 8px;
+}
+
+img {
+  border: 1px solid black;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}

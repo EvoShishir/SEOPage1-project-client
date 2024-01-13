@@ -1,0 +1,16 @@
+.previews {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.previews img {
+  border: none;
+  border-radius: 0;
+  width: 80%;
+  height: 80%;
+}
+
+.single-preview {
+  margin-bottom: 50px;
+}
